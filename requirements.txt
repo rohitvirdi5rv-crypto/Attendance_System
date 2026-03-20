@@ -1,0 +1,8 @@
+opencv-python
+mtcnn
+keras-facenet
+tf-nightly
+scikit-learn
+pandas
+numpy
+streamlit
