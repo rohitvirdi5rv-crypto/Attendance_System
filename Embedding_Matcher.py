@@ -5,7 +5,7 @@ from datetime import datetime
 import csv_storage
 import os
 
-df1 = pd.read_csv("Data\employees_info.csv")
+df1 = pd.read_csv("Data/employees_info.csv")
 df2 = pd.read_csv("Data/employees_embeddings.csv")
 
 attendance_mean = Mark_Attendance_Camera.attendance_mean_embedding
